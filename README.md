@@ -1,7 +1,7 @@
 # Hello, World!
 
 I am Riccardo, Computer Scientist from Genoa, Italy. 5y of expertise in Software Development in the position of Full Stack Developer and Blockchain Administrator / Developer.
-Officially certified as Hyperledger Fabric Administrator in 2021 and working with the Italian Chapter of Hyperledger to help the italian community with the business and training development.
+Officially certified as Hyperledger Fabric Administrator in 2021 and working with the [Hyperledger Italian Chapter](https://github.com/hyperledger) to help the italian community with the business and training development.
 
 
 ## 🎓 Education
