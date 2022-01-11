@@ -14,7 +14,7 @@ Officially certified as Hyperledger Fabric Administrator in 2021 and working wit
   * **Fleap.io** | Head of Blockchain | September 2019, Present
     * I take care of the Hyperledger Fabric infrastructure of the project and the development of Javascript Smart Cotnracts
   * **eVox** | Influencer Marketing Business Developer and Full Stack Developer  | September 2018, Present
-    * I manage a team through the development of Influencer Marketing and management tools. We realized many private projects under the eVox organization.
+    * I manage a team through the development of Influencer Marketing and management tools. We realized many private projects under the [eVox organization](https://github.com/eVox-gg).
     * I take care of the business development of the agency, managing several activations with influencers and clients and organizing a team of 10+ people.
 * **NTT Data / Siemens** | Full Stack Developer & Blockchain Administrator / Developer | March 2019 - September 2021
   * Created a Hyperledger Fabric Blockchain from scratch. Administered, orchestrated and maintained the infrastructure supporting continuous stream and processing of data through the Smart Contract I personally developed in GoLang. Proposed and invented several ideas and solutions to production and PoC occurred issues.
