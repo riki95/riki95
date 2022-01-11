@@ -1,7 +1,7 @@
 # Hello, World!
 
 I am Riccardo, Computer Scientist from Genoa, Italy. 5y of expertise in Software Development in the position of Full Stack Developer and Blockchain Administrator / Developer.
-Officially certified as [Hyperledger Fabric Administrator](https://www.credly.com/badges/643053e7-54b2-40ea-8454-a0b589364e22?source=linked_in_profile) in 2021 and working with the [Hyperledger Italian Chapter](https://github.com/hyperledger) to help the italian community with the business and training development.
+Officially certified as [Hyperledger Fabric Administrator](https://www.credly.com/badges/643053e7-54b2-40ea-8454-a0b589364e22?source=linked_in_profile) in 2021 and working with the [Hyperledger Italian Chapter](https://github.com/hyperledger) to help the growth of the italian community with the business and training development.
 
 
 ## 🏢 Jobs and Projects
@@ -26,4 +26,5 @@ Officially certified as [Hyperledger Fabric Administrator](https://www.credly.co
 
 ## 🌟 Hobbies
   - I am Padel addicted! 🎾
+  - I am passionate about Personal Finance and a Crypto lover 💰
   - I am workaholic 💻
