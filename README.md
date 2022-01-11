@@ -4,11 +4,6 @@ I am Riccardo, Computer Scientist from Genoa, Italy. 5y of expertise in Software
 Officially certified as [Hyperledger Fabric Administrator](https://www.credly.com/badges/643053e7-54b2-40ea-8454-a0b589364e22?source=linked_in_profile) in 2021 and working with the [Hyperledger Italian Chapter](https://github.com/hyperledger) to help the italian community with the business and training development.
 
 
-## 🎓 Education
-* **2021**: **Master in Blockchain and Digital Assets** with [AIO Blockchain Lab](https://www.linkedin.com/company/ai1project19/). Won a scolarship with other 500 students. Won an internal challenge among 60 participants. Final project:  a Smart Ticketing Whitepaper proposal based  (and in collaboration with) **[Hedera Hashraph](https://hedera.com/)** with other 7 students.
-* **2017/2019**: **Master in Computer Science** at Università di Genova focused on **IoT**, **Blockchain**, **Machine Learning**, **Software Engineering**. Final evaluation 110/110 Cum Laude. Master Thesis about Hyperledger Fabric Blockchain.
-* **2014/2018**: **Bachelor Degree** in Computer Science at Università di Genova.
-
 ## 🏢 Jobs and Projects
 * **Freelance** | Blockchain Administration / Development Consultant and Business Developer | September 2018 - Present
   * **[Fleap.io](https://fleap.io/)** | Head of Blockchain | September 2019, Present
@@ -24,6 +19,10 @@ Officially certified as [Hyperledger Fabric Administrator](https://www.credly.co
 * **CHFA**: Certified Hyperledger Fabric Adminsitrator, issued on 28 February 2021, valid until 29 February 2024. Check my certification [here](https://www.credly.com/badges/643053e7-54b2-40ea-8454-a0b589364e22?source=linked_in_profile)
 * **First Certificate in English**: Released by University of Cambridge in May 2015
 
+## 🎓 Education
+* **2021/2022**: **Master in Blockchain and Digital Assets** with [AIO Blockchain Lab](https://www.linkedin.com/company/ai1project19/). Won a scolarship with other 500 students. Won an internal challenge among 60 participants. Final project:  a Smart Ticketing Whitepaper proposal based  (and in collaboration with) **[Hedera Hashraph](https://hedera.com/)** with other 7 students.
+* **2017/2019**: **Master in Computer Science** at Università di Genova focused on **IoT**, **Blockchain**, **Machine Learning**, **Software Engineering**. Final evaluation 110/110 Cum Laude. Master Thesis about Hyperledger Fabric Blockchain.
+* **2014/2018**: **Bachelor Degree** in Computer Science at Università di Genova.
 
 ## 🌟 Hobbies
   - I am Padel addicted! 🎾
