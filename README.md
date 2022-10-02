@@ -6,6 +6,8 @@ Officially certified as [Hyperledger Fabric Administrator](https://www.credly.co
 
 ## 🏢 Jobs and Projects
 * **Freelance** | Blockchain Administration / Development Consultant and Business Developer | September 2018 - Present
+  * **[AdverLive](https://adver.live)** | Founder & CEO | June 2022, Present
+    * I contribute to the development of the platform and technology stack and I administrate the company, elaborating strategies and decisions to make it grow
   * **[Fleap.io](https://fleap.io/)** | Head of Blockchain | September 2019, Present
     * I take care of the Hyperledger Fabric infrastructure of the project and the development of Javascript Smart Contracts, together with innovative idea proposals
   * **[eVox](https://evox.gg/)** | Influencer Marketing Business Developer and Full Stack Developer  | September 2018, Present
